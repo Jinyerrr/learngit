@@ -2,4 +2,8 @@ hello git
 gaoyiga1 change
 xuyaotuihui1
 fewgfu
+<<<<<<< HEAD
 777777
+=======
+branch888999
+>>>>>>> dev
